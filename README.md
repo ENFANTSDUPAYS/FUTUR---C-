@@ -1,7 +1,7 @@
 ATTENTION, EN AUCUN CAS, L'APPLICATION SE TROUVE DANS ETAT FONCTIONNELLE PARFAIT ! JE NE SUIS EN AUCUN CAS RESPONSABLE DE VOS ERREUR OU DE LA MOINDRE PERTE D'ARGENT.
 
 Titre : Predictive Trading.
-Version : 0.8.5.
+Version : 0.8.7.
 
 Présentation : Predictive Trading est une application exclusivement programmée en C# qui a l'ambition de calculer vos rendements pour les actions, obligations, futures et spots afin de pouvoir faire des prévisions financières.
 
